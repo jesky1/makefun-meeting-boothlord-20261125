@@ -1,0 +1,1 @@
+{"description":"One original one-line sentence that could have replaced an entire pointless meeting, for make.fun's The Meeting That Should Have Been One Line bounty.","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-meeting-boothlord-20261125","private":true,"scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
